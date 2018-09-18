@@ -7,3 +7,4 @@ week1
 
 week2
 *leap.cpp
+*sec.cpp
