@@ -6,7 +6,7 @@ int main(){
 	printf("Enter second");
 	scanf("%d",&sec);
 	
-	if(hh=sec/3600,mm=sec%3600/60,ss=sec%60){
+	if(hh=sec/3600.,mm=sec%3600/60.,ss=sec%60){
 	
 	printf("%d sec = %02d:%02d:%02d\n",sec,hh,mm,ss);
 }
